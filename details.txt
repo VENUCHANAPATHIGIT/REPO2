@@ -5,3 +5,4 @@ I joined B.Tech in AU, Vizag.
 I completed my B.Tech in 2019.
 I joined TCS HYD in year 2019 as ASE.
 My skill set is Linux, Git, Jenkins, Docker, Ansible.
+I have good knowledge on Azure cloud and i hold 2 active certifications from Azure(AZ-900 & AZ-400).
