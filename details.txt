@@ -7,3 +7,4 @@ I joined TCS HYD in year 2019 as ASE.
 I was promoted to SE in year 2020.
 My skill set is Linux, Git, Jenkins, Docker, Ansible.
 I have good knowledge on Azure cloud and i hold 2 active certifications from Azure(AZ-900 & AZ-400).
+I have 2 badges awarded by microsoft for AZ-900 & AZ-400.
